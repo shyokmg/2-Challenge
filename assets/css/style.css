@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* header HTML semantic header content */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -20,10 +21,12 @@ header h1 {
     font-size: 48px;
 }
 
-header h1 .seo {
+/* Changed class selector to id selector */
+header h1 #seo {
     color: #d9dcd6;
 }
 
+/* nav HTML semantic for links on the header */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -44,6 +47,7 @@ p {
     font-size: 16px;
 }
 
+/* figure HTML semantic for background image */
 figure {
     height: 800px;
     width: 100%;
@@ -63,6 +67,7 @@ figure {
     margin-left: 25px;
 }
 
+/* article HTML semantic for content  */
 article {
     width: 75%;
     display: inline-block;
@@ -87,6 +92,7 @@ article div h2 {
     font-size: 36px;
 }
 
+/* aside HTML semantic for side content */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -114,6 +120,7 @@ aside div img {
     max-width: 150px;
 }
 
+/* footer HTML semantic for bottom div */
 footer {
     padding: 30px;
     clear: both;
