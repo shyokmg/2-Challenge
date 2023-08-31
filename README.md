@@ -4,13 +4,11 @@
 
 This Website repository has been refactored to satisfy the accessibility requirements of having a HTML semantic and logical structures, and have descriptive comments.
 
-## Installation
+## My Portfolio website
+![My Portfolio](./assets/images/shyokmg.github.io_horiseon_webapp_.png)
 
-N/A
-
-## Usage
-
-N/A
+## Link to website
+https://shyokmg.github.io/horiseon_webapp/
 
 ## Credits
 
