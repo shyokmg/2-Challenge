@@ -4,8 +4,8 @@
 
 This Website repository has been refactored to satisfy the accessibility requirements of having a HTML semantic and logical structures, and have descriptive comments.
 
-## My Portfolio website
-![My Portfolio](./assets/images/shyokmg.github.io_horiseon_webapp_.png)
+## Horiseon website
+![Horiseon website](./assets/images/horiseon_webapp.png)
 
 ## Link to website
 https://shyokmg.github.io/horiseon_webapp/
